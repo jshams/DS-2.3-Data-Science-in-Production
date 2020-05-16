@@ -3,3 +3,4 @@ Pyspark
 Pandas_Titanic.ipynb
 *.csv
 deletions
+.DS_Store
