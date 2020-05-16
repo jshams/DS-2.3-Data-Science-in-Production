@@ -16,3 +16,6 @@ Log homework 1's API results in a database.
 
 ### [Homework 3](homeworks/hw3-pyspark-intro):
 Convert Jupyter notebook written in Pandas to Pyspark.
+
+## [Final Project](sliding-puzzle-3x3-model) - Sliding Puzzle Sover for 3x3
+Trained a Neural Net to improve my current 3x3 solver.
