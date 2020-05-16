@@ -1,0 +1,7 @@
+flask
+flask_restplus
+# keras
+# tensorflow==1.14.0
+numpy
+Pillow
+werkzeug==0.16.0
