@@ -1,0 +1,7 @@
+Werkzeug==0.16.1
+pandas
+numpy
+keras
+scikit-learn
+flask
+flask-restplus
