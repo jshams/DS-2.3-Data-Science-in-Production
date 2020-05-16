@@ -1,4 +1,4 @@
-# [Homeworks](homeworks):
+# Homeworks:
 
 ## [Homework 1](hw1-deploy-model-flask-docker-aws):
 Deploy API with model to AWS with Docker and AWS Beanstalk.
