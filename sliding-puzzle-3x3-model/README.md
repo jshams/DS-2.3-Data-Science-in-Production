@@ -1,4 +1,4 @@
-# Sliding PUzzle Sovler for 3x3
+# Sliding Puzzle Sovler for 3x3
 In this project I created a NN to predict the distance to solve given a board state.
 This is useful for the solver. The solver works by trying all game routes till it finds
 the fastest solve. The issue with this is that there is no thought, just folllow all the
@@ -7,7 +7,7 @@ I use this model as a *heuristic* to guide the solver to follow that create boar
 are closer to being solved.
 
 ## See the live project
-[Sliding Puzzle Solver](jshams.github.io/sliding-puzzle/frontend)
+[Sliding Puzzle Solver](https://jshams.github.io/sliding-puzzle/frontend)
 
 ## Did the model help?
 Yes! With the current vanilla solver in place, about 80K board states were required to be
