@@ -4,4 +4,4 @@ flask_restplus
 # tensorflow==1.14.0
 numpy
 Pillow
-werkzeug==0.16.0
+werkzeug==2.2.3
